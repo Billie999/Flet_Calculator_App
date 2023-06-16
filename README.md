@@ -3,7 +3,7 @@
 *******
 Calc App is a sample calculator implemented using Python 3 and Flet framework which enables us to build UI for the program with Flet [controls](https://flet.dev/docs/controls) which are based on [Flutter](https://flutter.dev/) by Google. To write a Flet web app we don't need to know HTML, CSS or JavaScript, but we do need a basic knowledge of Python and object-oriented programming.
 
-#### Screenshot
+## Screenshot
 *******
 
 ![screenshot](https://github.com/Billie999/Flet_Calculator_App/assets/60508084/4d67e839-c07a-43ef-bb7e-1fc803cb8d4e)
@@ -19,3 +19,18 @@ $ python -m venv venv
 $ source venv/bin/activate
 $ python -m pip install flet
 ```
+After these commands have been installed, you can run Calc App as described in the next section
+
+## How to Run Calc App
+
+**********
+To run Calc App from your system command or terminal, execute the following command:
+
+```console
+$ python calc.py
+```
+
+## How to Use Calc App
+
+**********
+![Screenshot](calc-app.gif]
