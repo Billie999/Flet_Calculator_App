@@ -5,7 +5,8 @@ Calc App is a sample calculator implemented using Python 3 and Flet framework wh
 
 #### Screenshot
 *******
-![Screenshot](screenshot.jpg)
+
+![screenshot](https://github.com/Billie999/Flet_Calculator_App/assets/60508084/4d67e839-c07a-43ef-bb7e-1fc803cb8d4e)
 
 
 #### Requirements
