@@ -34,9 +34,13 @@ $ python calc.py
 
 **********
 To use Calc App, just enter a valid math expression using your mouse and then press `Enter` or click the button, `=`, to get the result: 
-![Screenshot](calc-app.gif]
 
 
+
+
+
+
+![calc-app](https://github.com/Billie999/Flet_Calculator_App/assets/60508084/bc5845dd-06b9-47f9-85c5-afd52c94a98b)
 
 
 
