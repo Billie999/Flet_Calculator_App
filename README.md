@@ -49,5 +49,5 @@ To use Calc App, just enter a valid math expression using your mouse and then pr
 
 
 
-## Refrences
-[Flet Tutorial](https://flet.dev/docs/tutorials/python-calculator/)https://flet.dev/docs/tutorials/python-calculator/
+## References
+[Flet Tutorial](https://flet.dev/docs/tutorials/python-calculator/)
