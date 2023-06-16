@@ -19,12 +19,12 @@ $ python -m venv venv
 $ source venv/bin/activate
 $ python -m pip install flet
 ```
-After these commands have been installed, you can run Calc App as described in the next section
+After these commands have been installed, we can run Calc App as described in the next section
 
 ## How to Run Calc App
 
 **********
-To run Calc App from your system's command line or terminal, execute the following command:
+To run Calc App from you system's command line or terminal, execute the following command:
 
 ```console
 $ python calc.py
