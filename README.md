@@ -24,7 +24,7 @@ After these commands have been installed, you can run Calc App as described in t
 ## How to Run Calc App
 
 **********
-To run Calc App from your system command or terminal, execute the following command:
+To run Calc App from your system's command line or terminal, execute the following command:
 
 ```console
 $ python calc.py
@@ -33,4 +33,17 @@ $ python calc.py
 ## How to Use Calc App
 
 **********
+To use Calc App, just enter a valid math expression using your mouse and then press `Enter` or click the button, `=`, to get the result: 
 ![Screenshot](calc-app.gif]
+
+
+
+
+
+
+
+
+
+
+## Refrences
+[Flet Tutorial](https://flet.dev/docs/tutorials/python-calculator/)https://flet.dev/docs/tutorials/python-calculator/
